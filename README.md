@@ -1,3 +1,4 @@
+(my personal fork, essentially just [@FMeinicke's](https://github.com/FMeinicke) `restore-fan-after-sleep` fork merged with upstream)
 Simple application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu).
 
 # xf86-video-ati and xf86-video-amdgpu  driver
